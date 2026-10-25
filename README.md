@@ -1,5 +1,7 @@
 # stitch-regions
 
+[![Python tests](https://github.com/AbdulkadirKhoujja/stitch-regions/actions/workflows/python-tests.yml/badge.svg)](https://github.com/AbdulkadirKhoujja/stitch-regions/actions/workflows/python-tests.yml)
+
 **Turns a photo into a small set of clean, stitchable colour regions, then exports the same geometry as an SVG, a numbered colour-by-number chart and a JSON file of region polygons, with each colour matched to an embroidery thread.**
 
 ![Original · stitch colours · colour-by-number](docs/overview.jpg)
@@ -76,3 +78,7 @@ MIT licensed.
 ## 90-second demonstration walkthrough
 
 [Watch the captioned walkthrough](docs/walkthrough_90s_captioned.mp4) or read the [voiceover narration script](docs/WALKTHROUGH_NARRATION.md). The video is silent and uses synthetic or openly licensed example images, not confidential client images. It does not establish production-ready embroidery digitisation.
+
+## Continuous integration
+
+GitHub Actions installs the declared project dependencies on Ubuntu 24.04 with Python 3.13, then runs the original unittest suite on pushes to `main`, pull requests and manual dispatches. The trading workflow also installs FFmpeg. The [25 October 2026 verified run](https://github.com/AbdulkadirKhoujja/stitch-regions/actions/runs/40235662159) passed **7/7 tests** on commit `3c2649027b302e78c7200a0a66cd07b825d8fd36`. These are synthetic test and application checks, not validation on unfamiliar client footage or professional embroidery outputs.
