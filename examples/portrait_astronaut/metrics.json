@@ -1,0 +1,231 @@
+{
+  "metrics": {
+    "image": "portrait_astronaut.png",
+    "work_size_px": [
+      512,
+      512
+    ],
+    "design_size_mm": [
+      150.0,
+      150.0
+    ],
+    "colours_requested": 12,
+    "colours": 12,
+    "regions": 172,
+    "regions_before_merge": 4889,
+    "fragments_merged": 3897,
+    "smallest_region_mm2": 9.4,
+    "min_region_mm2_setting": 9.0,
+    "mean_delta_e2000": 6.01,
+    "p90_delta_e2000": 11.5,
+    "mean_thread_delta_e2000": 6.37,
+    "polygon_vs_segmentation_pct": 99.06,
+    "outputs_consistency_pct": 99.71
+  },
+  "palette": [
+    {
+      "index": 1,
+      "rgb": [
+        221,
+        213,
+        211
+      ],
+      "hex": "#ddd5d3",
+      "share_pct": 14.6,
+      "regions": 23,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "415",
+        "name": "Pearl Gray",
+        "delta_e2000": 4.2
+      }
+    },
+    {
+      "index": 2,
+      "rgb": [
+        7,
+        4,
+        3
+      ],
+      "hex": "#070403",
+      "share_pct": 18.7,
+      "regions": 9,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "310",
+        "name": "Black",
+        "delta_e2000": 1.3
+      }
+    },
+    {
+      "index": 3,
+      "rgb": [
+        187,
+        70,
+        33
+      ],
+      "hex": "#bb4621",
+      "share_pct": 7.1,
+      "regions": 16,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "434",
+        "name": "Light Brown",
+        "delta_e2000": 11.7
+      }
+    },
+    {
+      "index": 4,
+      "rgb": [
+        138,
+        127,
+        125
+      ],
+      "hex": "#8a7f7d",
+      "share_pct": 5.6,
+      "regions": 19,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "414",
+        "name": "Dark Steel Gray",
+        "delta_e2000": 6.7
+      }
+    },
+    {
+      "index": 5,
+      "rgb": [
+        115,
+        18,
+        24
+      ],
+      "hex": "#731218",
+      "share_pct": 5.2,
+      "regions": 15,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "815",
+        "name": "Medium Garnet",
+        "delta_e2000": 4.1
+      }
+    },
+    {
+      "index": 6,
+      "rgb": [
+        61,
+        36,
+        95
+      ],
+      "hex": "#3d245f",
+      "share_pct": 3.5,
+      "regions": 6,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "550",
+        "name": "Very Dark Violet",
+        "delta_e2000": 11.0
+      }
+    },
+    {
+      "index": 7,
+      "rgb": [
+        195,
+        163,
+        135
+      ],
+      "hex": "#c3a387",
+      "share_pct": 3.6,
+      "regions": 4,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "3064",
+        "name": "Desert Sand",
+        "delta_e2000": 8.1
+      }
+    },
+    {
+      "index": 8,
+      "rgb": [
+        186,
+        177,
+        173
+      ],
+      "hex": "#bab1ad",
+      "share_pct": 18.6,
+      "regions": 26,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "318",
+        "name": "Light Steel Gray",
+        "delta_e2000": 4.9
+      }
+    },
+    {
+      "index": 9,
+      "rgb": [
+        53,
+        27,
+        13
+      ],
+      "hex": "#351b0d",
+      "share_pct": 2.9,
+      "regions": 15,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "938",
+        "name": "Ultra Dark Coffee Brown",
+        "delta_e2000": 2.7
+      }
+    },
+    {
+      "index": 10,
+      "rgb": [
+        223,
+        111,
+        75
+      ],
+      "hex": "#df6f4b",
+      "share_pct": 12.9,
+      "regions": 13,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "947",
+        "name": "Burnt Orange",
+        "delta_e2000": 6.5
+      }
+    },
+    {
+      "index": 11,
+      "rgb": [
+        113,
+        87,
+        47
+      ],
+      "hex": "#71572f",
+      "share_pct": 3.8,
+      "regions": 5,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "433",
+        "name": "Medium Brown",
+        "delta_e2000": 10.2
+      }
+    },
+    {
+      "index": 12,
+      "rgb": [
+        78,
+        70,
+        67
+      ],
+      "hex": "#4e4643",
+      "share_pct": 3.6,
+      "regions": 21,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "3799",
+        "name": "Very Dark Pewter Gray",
+        "delta_e2000": 5.0
+      }
+    }
+  ]
+}

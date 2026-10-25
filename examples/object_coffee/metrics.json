@@ -1,0 +1,197 @@
+{
+  "metrics": {
+    "image": "object_coffee.png",
+    "work_size_px": [
+      600,
+      400
+    ],
+    "design_size_mm": [
+      150.0,
+      100.0
+    ],
+    "colours_requested": 12,
+    "colours": 10,
+    "regions": 70,
+    "regions_before_merge": 10281,
+    "fragments_merged": 8086,
+    "smallest_region_mm2": 9.3,
+    "min_region_mm2_setting": 9.0,
+    "mean_delta_e2000": 5.35,
+    "p90_delta_e2000": 10.3,
+    "mean_thread_delta_e2000": 7.61,
+    "polygon_vs_segmentation_pct": 98.92,
+    "outputs_consistency_pct": 99.66
+  },
+  "palette": [
+    {
+      "index": 1,
+      "rgb": [
+        203,
+        141,
+        94
+      ],
+      "hex": "#cb8d5e",
+      "share_pct": 8.7,
+      "regions": 8,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "3064",
+        "name": "Desert Sand",
+        "delta_e2000": 4.9
+      }
+    },
+    {
+      "index": 2,
+      "rgb": [
+        105,
+        26,
+        11
+      ],
+      "hex": "#691a0b",
+      "share_pct": 10.8,
+      "regions": 6,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "815",
+        "name": "Medium Garnet",
+        "delta_e2000": 9.1
+      }
+    },
+    {
+      "index": 3,
+      "rgb": [
+        168,
+        83,
+        38
+      ],
+      "hex": "#a85326",
+      "share_pct": 21.8,
+      "regions": 10,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "434",
+        "name": "Light Brown",
+        "delta_e2000": 6.0
+      }
+    },
+    {
+      "index": 4,
+      "rgb": [
+        29,
+        14,
+        7
+      ],
+      "hex": "#1d0e07",
+      "share_pct": 8.9,
+      "regions": 5,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "310",
+        "name": "Black",
+        "delta_e2000": 8.8
+      }
+    },
+    {
+      "index": 5,
+      "rgb": [
+        246,
+        233,
+        218
+      ],
+      "hex": "#f6e9da",
+      "share_pct": 4.1,
+      "regions": 2,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "3770",
+        "name": "Very Light Tawny",
+        "delta_e2000": 3.3
+      }
+    },
+    {
+      "index": 6,
+      "rgb": [
+        187,
+        110,
+        61
+      ],
+      "hex": "#bb6e3d",
+      "share_pct": 14.9,
+      "regions": 14,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "407",
+        "name": "Dark Desert Sand",
+        "delta_e2000": 7.3
+      }
+    },
+    {
+      "index": 7,
+      "rgb": [
+        230,
+        143,
+        55
+      ],
+      "hex": "#e68f37",
+      "share_pct": 3.2,
+      "regions": 1,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "740",
+        "name": "Tangerine",
+        "delta_e2000": 5.3
+      }
+    },
+    {
+      "index": 8,
+      "rgb": [
+        174,
+        46,
+        16
+      ],
+      "hex": "#ae2e10",
+      "share_pct": 14.8,
+      "regions": 5,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "321",
+        "name": "Red",
+        "delta_e2000": 11.7
+      }
+    },
+    {
+      "index": 9,
+      "rgb": [
+        225,
+        182,
+        142
+      ],
+      "hex": "#e1b68e",
+      "share_pct": 7.0,
+      "regions": 13,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "945",
+        "name": "Tawny",
+        "delta_e2000": 8.6
+      }
+    },
+    {
+      "index": 10,
+      "rgb": [
+        47,
+        9,
+        4
+      ],
+      "hex": "#2f0904",
+      "share_pct": 5.8,
+      "regions": 6,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "938",
+        "name": "Ultra Dark Coffee Brown",
+        "delta_e2000": 11.2
+      }
+    }
+  ]
+}

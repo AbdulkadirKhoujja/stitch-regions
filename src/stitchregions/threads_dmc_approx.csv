@@ -1,0 +1,51 @@
+code,name,r,g,b
+# Approximate on-screen RGB values for common DMC stranded cotton colours, as circulated in public DMC-to-RGB conversion charts.
+# Screen colours are only a guide: values differ between charts and from physical thread. Confirm against a physical DMC colour card,
+# or replace this file with the client's own thread list (same columns).
+BLANC,White,252,251,248
+310,Black,0,0,0
+3865,Winter White,249,247,241
+415,Pearl Gray,211,211,214
+318,Light Steel Gray,171,171,171
+414,Dark Steel Gray,140,140,140
+413,Dark Pewter Gray,86,86,86
+3799,Very Dark Pewter Gray,66,66,66
+666,Bright Red,227,29,66
+321,Red,199,43,59
+815,Medium Garnet,135,7,31
+3705,Dark Melon,255,121,146
+352,Light Coral,253,156,151
+754,Light Peach,247,203,191
+948,Very Light Peach,254,231,218
+3770,Very Light Tawny,255,238,227
+945,Tawny,251,213,187
+407,Dark Desert Sand,187,129,97
+3064,Desert Sand,196,142,112
+434,Light Brown,152,94,51
+433,Medium Brown,122,69,31
+801,Dark Coffee Brown,101,57,25
+938,Ultra Dark Coffee Brown,54,31,14
+740,Tangerine,255,139,0
+947,Burnt Orange,255,123,77
+725,Medium Light Topaz,255,200,64
+444,Dark Lemon,255,214,0
+973,Bright Canary,255,227,0
+744,Pale Yellow,255,231,147
+703,Chartreuse,123,181,71
+702,Kelly Green,71,167,47
+700,Bright Green,7,115,27
+699,Green,5,101,23
+3363,Medium Pine Green,114,130,86
+3347,Medium Yellow Green,113,147,78
+996,Medium Electric Blue,48,194,236
+3843,Electric Blue,20,170,208
+826,Medium Blue,107,158,191
+799,Medium Delft Blue,116,142,182
+797,Royal Blue,19,71,125
+796,Dark Royal Blue,17,65,109
+820,Very Dark Royal Blue,14,54,92
+3750,Very Dark Antique Blue,56,76,94
+775,Very Light Baby Blue,217,235,241
+550,Very Dark Violet,92,24,78
+554,Light Violet,219,179,203
+602,Medium Cranberry,226,72,116

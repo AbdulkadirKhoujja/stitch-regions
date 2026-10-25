@@ -1,0 +1,95 @@
+{
+  "metrics": {
+    "image": "logo_drawn.png",
+    "work_size_px": [
+      500,
+      500
+    ],
+    "design_size_mm": [
+      150.0,
+      150.0
+    ],
+    "colours_requested": 12,
+    "colours": 4,
+    "regions": 8,
+    "regions_before_merge": 154,
+    "fragments_merged": 146,
+    "smallest_region_mm2": 55.1,
+    "min_region_mm2_setting": 9.0,
+    "mean_delta_e2000": 1.64,
+    "p90_delta_e2000": 2.89,
+    "mean_thread_delta_e2000": 4.14,
+    "polygon_vs_segmentation_pct": 99.78,
+    "outputs_consistency_pct": 99.9
+  },
+  "palette": [
+    {
+      "index": 1,
+      "rgb": [
+        20,
+        40,
+        60
+      ],
+      "hex": "#14283c",
+      "share_pct": 14.7,
+      "regions": 1,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "820",
+        "name": "Very Dark Royal Blue",
+        "delta_e2000": 7.0
+      }
+    },
+    {
+      "index": 2,
+      "rgb": [
+        249,
+        248,
+        248
+      ],
+      "hex": "#f9f8f8",
+      "share_pct": 71.8,
+      "regions": 5,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "BLANC",
+        "name": "White",
+        "delta_e2000": 1.7
+      }
+    },
+    {
+      "index": 3,
+      "rgb": [
+        240,
+        140,
+        30
+      ],
+      "hex": "#f08c1e",
+      "share_pct": 12.0,
+      "regions": 1,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "740",
+        "name": "Tangerine",
+        "delta_e2000": 2.8
+      }
+    },
+    {
+      "index": 4,
+      "rgb": [
+        200,
+        40,
+        40
+      ],
+      "hex": "#c82828",
+      "share_pct": 1.5,
+      "regions": 1,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "321",
+        "name": "Red",
+        "delta_e2000": 5.1
+      }
+    }
+  ]
+}

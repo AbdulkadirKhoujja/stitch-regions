@@ -1,0 +1,15 @@
+[project]
+name = "stitch-regions"
+version = "0.1.0"
+description = "Photo to stitchable hand-embroidery regions: SVG, colour-by-number chart, JSON polygons, thread matching."
+requires-python = ">=3.11"
+dependencies = ["opencv-python", "numpy"]
+
+[project.scripts]
+stitchregions = "stitchregions.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+stitchregions = ["*.csv"]

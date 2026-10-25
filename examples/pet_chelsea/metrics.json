@@ -1,0 +1,146 @@
+{
+  "metrics": {
+    "image": "pet_chelsea.png",
+    "work_size_px": [
+      451,
+      300
+    ],
+    "design_size_mm": [
+      150.0,
+      99.8
+    ],
+    "colours_requested": 12,
+    "colours": 7,
+    "regions": 100,
+    "regions_before_merge": 2861,
+    "fragments_merged": 2208,
+    "smallest_region_mm2": 9.1,
+    "min_region_mm2_setting": 9.0,
+    "mean_delta_e2000": 6.18,
+    "p90_delta_e2000": 10.72,
+    "mean_thread_delta_e2000": 5.99,
+    "polygon_vs_segmentation_pct": 99.18,
+    "outputs_consistency_pct": 99.76
+  },
+  "palette": [
+    {
+      "index": 1,
+      "rgb": [
+        86,
+        55,
+        31
+      ],
+      "hex": "#56371f",
+      "share_pct": 4.1,
+      "regions": 12,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "801",
+        "name": "Dark Coffee Brown",
+        "delta_e2000": 4.6
+      }
+    },
+    {
+      "index": 2,
+      "rgb": [
+        162,
+        126,
+        105
+      ],
+      "hex": "#a27e69",
+      "share_pct": 11.8,
+      "regions": 21,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "407",
+        "name": "Dark Desert Sand",
+        "delta_e2000": 6.6
+      }
+    },
+    {
+      "index": 3,
+      "rgb": [
+        145,
+        105,
+        74
+      ],
+      "hex": "#91694a",
+      "share_pct": 45.7,
+      "regions": 15,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "434",
+        "name": "Light Brown",
+        "delta_e2000": 5.7
+      }
+    },
+    {
+      "index": 4,
+      "rgb": [
+        187,
+        165,
+        160
+      ],
+      "hex": "#bba5a0",
+      "share_pct": 7.2,
+      "regions": 7,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "318",
+        "name": "Light Steel Gray",
+        "delta_e2000": 9.5
+      }
+    },
+    {
+      "index": 5,
+      "rgb": [
+        42,
+        28,
+        18
+      ],
+      "hex": "#2a1c12",
+      "share_pct": 2.7,
+      "regions": 9,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "938",
+        "name": "Ultra Dark Coffee Brown",
+        "delta_e2000": 5.1
+      }
+    },
+    {
+      "index": 6,
+      "rgb": [
+        119,
+        76,
+        52
+      ],
+      "hex": "#774c34",
+      "share_pct": 9.2,
+      "regions": 18,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "433",
+        "name": "Medium Brown",
+        "delta_e2000": 4.9
+      }
+    },
+    {
+      "index": 7,
+      "rgb": [
+        176,
+        141,
+        119
+      ],
+      "hex": "#b08d77",
+      "share_pct": 19.3,
+      "regions": 18,
+      "thread": {
+        "brand": "DMC (approx.)",
+        "code": "3064",
+        "name": "Desert Sand",
+        "delta_e2000": 5.4
+      }
+    }
+  ]
+}
