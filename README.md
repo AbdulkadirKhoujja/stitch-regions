@@ -72,3 +72,7 @@ PYTHONPATH=src python -m unittest discover -s tests -v     # 7 tests, incl. publ
 - **Stitch direction:** stitch direction and fill type per region are out of scope for this proof of concept.
 
 MIT licensed.
+
+## 90-second demonstration walkthrough
+
+[Watch the captioned walkthrough](docs/walkthrough_90s_captioned.mp4) or read the [voiceover narration script](docs/WALKTHROUGH_NARRATION.md). The video is silent and uses synthetic or openly licensed example images, not confidential client images. It does not establish production-ready embroidery digitisation.
