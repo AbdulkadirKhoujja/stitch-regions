@@ -233,3 +233,7 @@ data/private/
 images/private/
 patterns/private/
 exports/private/
+
+# Locally generated demo output and private Upwork proposal drafts
+outputs/
+PROPOSAL_DRAFT*.md
