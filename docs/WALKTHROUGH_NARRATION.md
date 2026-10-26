@@ -1,6 +1,6 @@
 # Stitch Regions — 90-second walkthrough narration
 
-**Format:** silent captioned walkthrough assembled from the source project's openly licensed and original demonstration assets. A human voiceover can be recorded separately.
+**Format:** the public demonstration now contains the supplied official voice-over with captions. The visual assets are openly licensed or original; this written guide is reference text and may differ slightly from the recorded narration.
 
 **00:00–00:10 — The goal.** Starting with a photo, we need a practical, simplified hand-embroidery pattern: stitchable regions, printable numbered chart and vector geometry that agrees between formats.
 
@@ -14,4 +14,4 @@
 
 **01:15–01:30 — Verification and caveats.** All seven automated tests passed. The synthetic logo's chart and polygon outputs agree on 99.90 percent of pixels with light smoothing. A full production feasibility study would need physical DMC colour verification and tests on client images, especially faces and fine details.
 
-**Note:** the supplied video has captions but no spoken audio.
+**Note:** the GitHub video at `docs/walkthrough_90s_captioned.mp4` now has an audio voice-over; the legacy filename is retained to keep external links working.
